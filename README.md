@@ -1,7 +1,7 @@
-NLP and LLM Projects Repository
+# NLP and LLM Projects Repository
 This repository contains notebooks and resources focused on fine-tuning and utilizing large language models (LLMs) for natural language processing (NLP) tasks. The projects here demonstrate how to apply advanced techniques like LoRA (Low-Rank Adaptation) for efficient fine-tuning, as well as how to implement retrieval-augmented generation (RAG) workflows for question generation and answering.
 
-Notebooks
+# Notebooks
 1. Fine-Tune Gemma Models in Keras using LoRA
 Description:
 This notebook demonstrates how to fine-tune Gemma models in Keras using LoRA (Low-Rank Adaptation). LoRA is a parameter-efficient fine-tuning method that reduces the computational cost and memory requirements of training large models.
